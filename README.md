@@ -1,1 +1,1 @@
-# NewYorksTimesActivity
+# NewYorkTimesActivity
